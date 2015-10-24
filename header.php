@@ -616,9 +616,9 @@
                             <img src="assets/people/mychael.jpg" alt="rocket" height="90px" width="auto">
                         </div>
                         <br/>
-                        <h5>Mychael <strong>Gomez</strong></h5>
+                        <h5>Sandra <strong>Williams</strong></h5>
                         <h6>
-                            CONTENT
+                            Documentation
                         </h6>
                     </div>
                     <div class="col-sm-3">
@@ -634,8 +634,10 @@
                 </div>
                     <div class="center">
                         <strong>
-                            <a target="_blank" href="http://goo.gl/forms/DZVK8UVwW9">
-                                Join our team!
+                            <a target="_blank" href="https://docs.google.com/forms/d/1YtuqXpqsl60eGj175EGTgvwOYiHKKuhUa_DlTcUail4/viewform?usp=send_form">
+                                <h3>
+                                    Join our team!
+                                </h3>
                             </a>           
                         </strong>
                     </div>
@@ -684,7 +686,7 @@
 <!-- Footer Section -->
 		<footer id="footerMain">
 			<div class="row center">
-                <div class="col-sm-3">
+                <div class="col-sm-2">
                     <!--Empty div for nice layout-->
                 </div>
                 <div class="col-sm-2">
@@ -721,8 +723,12 @@
                         </h5>
                     </a>
                 </div>
-                <div class="col-sm-3">
-                    <!--Empty div for nice layout-->
+                <div class="col-sm-2">
+                    <a href="investors.html">
+                        <h5>
+                            Investors
+                        </h5>
+                    </a>
                 </div>
             </div>
             <br/>
